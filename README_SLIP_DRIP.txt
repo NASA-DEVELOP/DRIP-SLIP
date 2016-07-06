@@ -1,6 +1,6 @@
 ***This module is intended for Python 3. It can be modified for Python 2***
 ==========================================================================================
-Module: SLIP-DRIP package
+Module: DRIP-SLIP package
 Contents: SLIP.py, SLIP_Preprocess.py, DRIP.py 
 ==========================================================================================
 Disclaimer: The code is for demonstration purposes only. Users are responsible to check for accuracy and revise to fit their objective.
