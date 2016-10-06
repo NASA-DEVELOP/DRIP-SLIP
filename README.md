@@ -1,4 +1,4 @@
-# __D__etecting __R__ealtime __I__ncreased __P__recipitation (DRIP) / __S__udden __L__andslide __I__dentification __P__roduct (SLIP)
+# **D**etecting **R**ealtime **I**ncreased **P**recipitation (DRIP) / **S**udden **L**andslide **I**dentification **P**roduct (SLIP)
 * __Purpose:__ Landslide identification and extreme precipitation monitoring software. Detect spectral changes from Landsat imagery that may indicate landslides in Nepal. 
 * __Contents:__ SLIP.py, SLIP_Preprocess.py, DRIP.py 
 * __Authors:__ Justin Roberts-Pierel, [Aakash Ahamed](http://github.com/kashingtondc), Jessica Fayne, Amanda Rumsey, 2015 
