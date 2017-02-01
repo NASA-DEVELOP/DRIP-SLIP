@@ -1,8 +1,8 @@
 # **D**etecting **R**ealtime **I**ncreased **P**recipitation (DRIP) / **S**udden **L**andslide **I**dentification **P**roduct (SLIP)
 * __Purpose:__ Landslide identification and extreme precipitation monitoring software. Detect spectral changes from Landsat imagery that may indicate landslides in Nepal. 
 * __Contents:__ SLIP.py, SLIP_Preprocess.py, DRIP.py 
-* __Authors:__ Justin Roberts-Pierel, [Aakash Ahamed](http://github.com/kashingtondc), Jessica Fayne, Amanda Rumsey, 2015 
-* __Contact:__ aakash.ahamed@nasa.gov
+* __Authors:__ [Justin Roberts-Pierel](http://github.com/jpierel14), [Aakash Ahamed](http://github.com/kashingtondc), Jessica Fayne, Amanda Rumsey, 2015 
+* __Contact:__ jr23@email.sc.edu, aakash.ahamed@nasa.gov, jfayne2@gmu.edu
 * __Organization:__ [NASA DEVELOP](http://develop.larc.nasa.gov/)
 * __Programming Language:__ [Python 3](http://python.org) (Can be modified for python2)
 * __Required Python packages:__ os, numpy, gdal, ogr, osr, scipy, urllib, csv, time, datetime, h5py, csv, sys, smtplib, socket, glob, copy, email, natsort. (If there is a lot of interest, please contact us and we will construct a build script to install these dependencies). 
