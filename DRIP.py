@@ -292,8 +292,8 @@ def sum72(newFile,extent):
 
 #sends an e-mail containing "attachment", currently to the authors
 def sendEmail(attachment):
-	gmail_user = "dripalertsystem@gmail.com"
-	gmail_pwd = "DRIPSLIP"
+	gmail_user = "YOUR EMAIL"
+	gmail_pwd = "YOUR Password"
 	to=['jpierel14@gmail.com','ahamednasa@gmail.com']
 	subject = 'DRIP Alert'
 	text='Current precipitation levels are significantly higher than historical averages (see attachment)'
