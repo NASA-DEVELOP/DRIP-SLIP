@@ -1,4 +1,10 @@
 # **D**etecting **R**ealtime **I**ncreased **P**recipitation (DRIP) / **S**udden **L**andslide **I**dentification **P**roduct (SLIP)
+
+# This software is Depreciated. For help implementing the SLIP/DRIP algorithm, please consult the following paper and google earth engine implementation
+
+1. Paper: [Fayne, J. V., Ahamed, A., Roberts-Pierel, J., Rumsey, A. C., & Kirschbaum, D. (2018). Automated Satellite-based Landslide Identification Product for Nepal. Earth Interactions, (2018).] (https://journals.ametsoc.org/doi/pdf/10.1175/EI-D-17-0022.1)
+2. [Earth Engine implementation](https://code.earthengine.google.com/e7d6ab1fe9bd8aa8e11c22ecf39e1bb6)
+
 * __Purpose:__ Landslide identification and extreme precipitation monitoring software. Detect spectral changes from Landsat imagery that may indicate landslides in Nepal. 
 * __Contents:__ SLIP.py, SLIP_Preprocess.py, DRIP.py 
 * __Authors:__ [Justin Roberts-Pierel](http://github.com/jpierel14), [Aakash Ahamed](http://github.com/kashingtondc), Jessica Fayne, Amanda Rumsey, 2015 
