@@ -2,7 +2,7 @@
 
 ### This software is Depreciated. For help implementing the SLIP/DRIP algorithm, please consult the following paper and google earth engine implementation
 
-1. Paper: [Fayne, J. V., Ahamed, A., Roberts-Pierel, J., Rumsey, A. C., & Kirschbaum, D. (2018). Automated Satellite-based Landslide Identification Product for Nepal. Earth Interactions, (2018).] (https://journals.ametsoc.org/doi/pdf/10.1175/EI-D-17-0022.1)
+1. Paper: [Fayne, J. V., Ahamed, A., Roberts-Pierel, J., Rumsey, A. C., & Kirschbaum, D. (2018). Automated Satellite-based Landslide Identification Product for Nepal. Earth Interactions, (2018).](https://journals.ametsoc.org/doi/pdf/10.1175/EI-D-17-0022.1)
 2. [Earth Engine implementation](https://code.earthengine.google.com/e7d6ab1fe9bd8aa8e11c22ecf39e1bb6)
 
 # Module Description:
